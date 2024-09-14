@@ -16,6 +16,7 @@ const routes = {
   "cloudsmith.lixp.dev": "https://docker.cloudsmith.io",
   "ecr.lixp.dev": "https://public.ecr.aws",
 
+  
   // staging
   "docker-staging.lixp.dev": dockerHub,
 };
